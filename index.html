@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Image Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <section class="image_generator">
+        <div class="content">
+            <h1>AI Image Generator</h1>
+            <p>Turn Your Imagination into Stunning Visuals in Seconds!</p>
+            <form action="#" class="generate_form">
+                <input type="text" class="prompt_input" placeholder="Describe your desired images in words" required>
+                <div class="control">
+                    <select class="img_quantity">
+                        <option value="1">1 Image</option>
+                        <option value="2">2 Images</option>
+                        <option value="3">3 Images</option>
+                        <option value="4" selected>4 Images</option>
+                    </select>
+                    <button type="submit" class="generate_btn">Generate</button>
+                </div>
+            </form>
+        </div>
+    </section>
+    <!-- images section start from here -->
+    <section class="img_gallery">
+        <div class="img_card">
+            <img src="images/img-1.jpg" alt="image">
+            <a href="#" class="download_btn">
+                <img src="images/download.svg" alt="download icon">
+            </a>
+        </div>
+        <div class="img_card ">
+            <img src="images/img-2.jpg" alt="image">
+            <a href="#" class="download_btn">
+                <img src="images/download.svg" alt="download icon">
+            </a>
+        </div>
+        <div class="img_card">
+            <img src="images/img-3.jpg" alt="image">
+            <a href="#" class="download_btn">
+                <img src="images/download.svg" alt="download icon">
+            </a>
+        </div>
+        <div class="img_card">
+            <img src="images/img-4.jpg" alt="image">
+            <a href="#" class="download_btn">
+                <img src="images/download.svg" alt="download icon">
+            </a>
+        </div>
+    </section>
+</body>
+</html>
