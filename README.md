@@ -30,7 +30,9 @@ Unleash your creativity with our cutting-edge **Personalized AI-powered image ge
 
 
 ## Live Project View
-👉 **Experience the Magic!** 👈
+ **Experience the Magic!** 
+<br>
+👉 **[Click here](https://anupr0y.github.io/AI-Image-Generator-/)** 👈 
 
 
 ## Tech Stack
@@ -54,7 +56,7 @@ Unleash your creativity with our cutting-edge **Personalized AI-powered image ge
 
 
 ## Get Started
-👉 **Try It Now!** 👈 Turn your imagination into visual art instantly! 🌟🎨
+👉 **[Try It Now!](https://anupr0y.github.io/AI-Image-Generator-/)** 👈 Turn your imagination into visual art instantly! 🌟🎨
 
 🌟 Enjoyed our AI-Powered Image Generator? Show your appreciation by giving us a star⭐! Your support fuels our creativity and motivates me to enhance this platform even further. 🙌🎨
 
