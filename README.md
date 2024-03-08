@@ -1,7 +1,8 @@
 # 🌟 AI-Powered Image Generator 🎨
 
-! AI Image Generator !
-![Screenshot (1)](https://github.com/anupr0y/AI-Image-Generator-/assets/114636305/5619514b-b0ca-435b-af32-37d7bdb38d2e)
+**! AI Image Generator !** <br>
+Click on the image to watch the video 📺<br> 
+[![AI Image Generator | Watch the video](https://github.com/anupr0y/AI-Image-Generator-/assets/114636305/5619514b-b0ca-435b-af32-37d7bdb38d2e)](https://youtu.be/WA20sui8mnk?si=rK9Kk1ujSx48DklW)
 
 ## Description
 Unleash your creativity with our cutting-edge **Personalized AI-powered image generator web app**! Whether you're a designer, content creator, or someone who loves art, this platform is for you. Simply provide a prompt, and watch as the AI crafts stunning visuals in seconds. Built with **HTML, CSS, and JavaScript**, and integrated with **OpenAI's image generation API**, our app ensures top-notch quality and lightning-fast results.
